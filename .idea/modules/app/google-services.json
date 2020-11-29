@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23609778887",
+    "firebase_url": "https://musicplayerclone.firebaseio.com",
+    "project_id": "musicplayerclone",
+    "storage_bucket": "musicplayerclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23609778887:android:274f0f48cd4a3d4f2854e2",
+        "android_client_info": {
+          "package_name": "com.example.musicplayerclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23609778887-oepgqarieu1cec2cp56b4dpi03cre0vr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musicplayerclone",
+            "certificate_hash": "cbaae19e2fdd879253aa0251eb9f22f9a3567233"
+          }
+        },
+        {
+          "client_id": "23609778887-d8sgq5f89igia1k2nif384dtlgodkig4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyGW6RdEnqvPULzGu9-uMiKM8bjah07nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23609778887-d8sgq5f89igia1k2nif384dtlgodkig4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
